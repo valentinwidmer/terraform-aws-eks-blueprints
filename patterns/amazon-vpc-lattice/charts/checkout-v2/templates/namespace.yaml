@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: checkoutv2
+  labels:
+    app.kubernetes.io/created-by: eks-workshop
